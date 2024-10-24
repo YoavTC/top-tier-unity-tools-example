@@ -1,0 +1,144 @@
+Label {
+    
+    margin: 1px;
+    padding: 0;
+    border-width: 1px;
+    border-right-color: grey;
+}
+
+Input {
+    
+    margin: 1px;
+    padding: 0;
+    border-width: 1px;
+    border-right-color: grey;
+}
+
+FloatField {
+    
+    margin: 1px;
+    padding: 0;
+    border-width: 1px;
+    border-right-color: grey;
+}
+
+ColorField {
+    
+    margin: 1px;
+    padding: 0;
+    border-width: 1px;
+    border-right-color: grey;
+}
+
+TextField {
+    
+    margin: 1px;
+    padding: 0;
+    border-width: 1px;
+    border-right-color: grey;
+}
+
+IntegerField {
+    
+    margin: 1px;
+    padding: 0;
+    border-width: 1px;
+    border-right-color: grey;
+}
+
+ObjectField {
+    
+    margin: 1px;
+    padding: 0;
+    border-width: 1px;
+    border-right-color: grey;
+}
+
+IntField {
+    
+    margin: 1px;
+    padding: 0;
+    border-width: 1px;
+    border-right-color: grey;
+}
+
+Vector2Field {
+    
+    margin: 1px;
+    padding: 0;
+    border-width: 1px;
+    border-right-color: grey;
+}
+
+Vector3Field {
+    
+    margin: 1px;
+    padding: 0;
+    border-width: 1px;
+    border-right-color: grey;
+}
+
+Vector4Field {
+    
+    margin: 1px;
+    padding: 0;
+    border-width: 1px;
+    border-right-color: grey;
+}
+
+DoubleField {
+    
+    margin: 1px;
+    padding: 0;
+    border-width: 1px;
+    border-right-color: grey;
+}
+
+Toggle {
+    
+    margin: 1px;
+    padding: 0;
+    border-width: 1px;
+    border-right-color: grey;
+}
+
+EnumField {
+    
+    margin: 1px;
+    padding: 0;
+    border-width: 1px;
+    border-right-color: grey;
+}
+
+BoundsIntField {
+    
+    margin: 1px;
+    padding: 0;
+    border-width: 1px;
+    border-right-color: grey;
+}
+
+RectIntField {
+    
+    margin: 1px;
+    padding: 0;
+    border-width: 1px;
+    border-right-color: grey;
+}
+
+LayerMaskField {
+    
+    margin: 1px;
+    padding: 0;
+    border-width: 1px;
+    border-right-color: grey;
+}
+
+Button {
+    width: 50px;
+    height: 50px;
+}
+
+.Warning {
+    color: red;
+}
